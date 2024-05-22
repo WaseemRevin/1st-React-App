@@ -3,22 +3,40 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <div>
+
+    <header>
+        <h1>Welcome to My Beautiful Webpage</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula eros id justo molestie, vel venenatis nunc venenatis.</p>
+        </section>
+        <section>
+            <h2>Our Services</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula eros id justo molestie, vel venenatis nunc venenatis.</p>
+        </section>
+        <section>
+            <h2>Contact Us</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula eros id justo molestie, vel venenatis nunc venenatis.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Beautiful Webpage. All rights reserved.</p>
+    </footer>
+
+
+
+   </div>
   );
 }
 
