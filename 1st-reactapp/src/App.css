@@ -45,7 +45,7 @@ body {
   position: absolute;
   top: 100%;
   left: 0;
-  background-color: #00796b; /* Teal */
+  background-color: #FA4D56; /* Teal */
   padding: 10px 0;
   z-index: 1; /* Ensure sub-navigation appears above other content */
   transition: all 0.3s ease; /* Added transition effect */
@@ -119,7 +119,7 @@ body {
 }
 
 .banner button:hover {
-  background-color: #005b4f; /* Darker teal on hover */
+  background-color: #f32f38; /* Darker teal on hover */
   transform: scale(1.1); /* Add hover effect */
 }
 
