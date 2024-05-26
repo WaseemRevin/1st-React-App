@@ -118,7 +118,7 @@ function App() {
           <a href="#services">Services</a>
           <a href="#contact">Contact</a>
         </p>
-        <p>&copy; 2024 School Name. All rights reserved. | Designed by <a href="https://example.com" target="_blank">Abbyshek Sharma</a></p>
+        <p>&copy; 2024 School Name. All rights reserved. | Designed by <a href="https://example.com" target="_blank">Muhammad Waseem</a></p>
       </footer>
     </div>
   );
