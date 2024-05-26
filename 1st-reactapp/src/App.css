@@ -4,11 +4,13 @@ body {
   font-family: Arial, sans-serif;
 }
 
+
 /* Navbar Styles */
 .navbar {
-  background-color: #00796b;
+  background-color: #FA4D56;
   color: white;
-  padding: 15px 0;
+  padding: 15px 0;   
+   
 }
 
 .navbar ul {
@@ -105,7 +107,7 @@ body {
 }
 
 .banner button {
-  background-color: #00796b; /* Teal */
+  background-color: #FA4D56; 
   color: white;
   padding: 10px 20px;
   font-size: 16px;
@@ -132,7 +134,7 @@ body {
 .services-title {
   font-size: 36px;
   margin-bottom: 20px;
-  color: #00796b; /* Teal */
+  color: #FA4D56; /* Teal */
 }
 
 .services-description {
@@ -263,7 +265,7 @@ body {
 }
 
 .btn-read-more {
-  background-color: #00796b; /* Teal */
+  background-color: #FA4D56; /* Teal */
   color: white;
   padding: 10px 20px;
   border: none;
@@ -273,7 +275,7 @@ body {
 }
 
 .btn-read-more:hover {
-  background-color: #005b4f; /* Darker teal on hover */
+  background-color: #FA4D56; /* Darker teal on hover */
   transform: scale(1.05); /* Add hover effect */
 }
 
@@ -322,7 +324,7 @@ body {
 }
 
 .form-group input[type="submit"] {
-  background-color: #00796b; /* Teal */
+  background-color: #FA4D56; /* Teal */
   color: white;
   padding: 10px 20px;
   border: none;
@@ -337,7 +339,7 @@ body {
 
 /* Footer Styles */
 .footer {
-  background-color: #00796b; /* Teal */
+  background-color: #FA4D56; /* Teal */
   color: white;
   padding: 20px 0;
   text-align: center;
